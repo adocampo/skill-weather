@@ -1,0 +1,4 @@
+Ahora mismo tenemos {{condition}} con {{temp}} grados {{scale}}. Se esperan temperaturas máximas de {{temp_max}} grados y mínimas de {{temp_min}}.
+Ahora mismo hay {{condition}} y hace {{temp}} grados. Tendremos temperaturas máximas de {{temp_max}} grados y mínimas de {{temp_min}}.
+Ahora hace {{condition}} y hay {{temp}} grados, se esperan temperaturas máximas de {{temp_max}} grados y mínimas de {{temp_min}}.
+Con temperaturas máximas de {{temp_max}} y mínimas de {{temp_min}}, en {{location}} habrá {{condition}} y ahora hay {{temp}} grados.

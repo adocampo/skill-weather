@@ -1,0 +1,3 @@
+{{day}} hará {{condition}}, con temperaturas máximas de {{temp_max}} y mínimas de {{temp_min}}
+{{day}} la temperatura máxima será de {{temp_max}} y la mínima de {{temp_min}}, en un día {{condition}}
+El pronostico para {{day}} es de máximas de {{temp_max}} y mínimas de {{temp_min}}

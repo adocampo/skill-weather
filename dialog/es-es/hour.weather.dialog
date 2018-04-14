@@ -1,0 +1,4 @@
+En {{location}} se espera que sea {{condition}} en las próximas horas con una temperatura de {{temp_max}} grados
+Tendremos un día {{condition}} en {{location}}, con temperaturas que rondarán los {{temp_max}}
+En {{location}} hará unos {{temp_max}} en un día {{condition}}
+En {{location}} tendremos unos {{temp_max}} grados y se espera un día {{condition}}

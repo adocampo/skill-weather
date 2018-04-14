@@ -1,0 +1,3 @@
+{{day}} hará {{condition}}, con una temperatura máxima que rondará los {{temp_max}} y mínimas de {{temp_min}}
+{{day}} en {{location}} tendremos una temperatura máxima de {{temp_max}} y una mínima de {{temp_min}}, en un día {{condition}}
+Se esperan para {{day}} unas temperaturas entre los {{temp_max}} de máximas y {{temp_min}} de mínimas

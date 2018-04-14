@@ -1,0 +1,4 @@
+Tendremos {{condition}}, con temperaturas que rondarán los {{temp_max}} grados
+Vamos a tener {{condition}} y alrededor de {{temp_max}} grados
+Vamos a tener {{condition}} con {{temp_max}} grados
+Tendremos alrededor de {{temp_max}} grados y se espera {{condition}}
