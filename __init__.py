@@ -45,6 +45,7 @@ from requests import HTTPError
 #   https://media.readthedocs.org/pdf/pyowm/latest/pyowm.pdf
 
 
+
 class OWMApi(Api):
     ''' Wrapper that defaults to the Mycroft cloud proxy so user's don't need
         to get their own OWM API keys '''
